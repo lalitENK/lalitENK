@@ -25,7 +25,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wi-Fi_logo.png" width="26"/> **WIFLY Portal** | Device activation, recharge, invoicing, reporting. | [WIFLY](https://pos.wifly.us) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png" width="26"/> **ENK Wireless** | USA Telecom device & plan management portal. | [ENK Wireless](https://pos.enkwirelessinc.com) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png" width="26"/> **ENK Wireless** | USA Telecom SIMs & Device management portal. | [ENK Wireless](https://pos.enkwirelessinc.com) |
 
 ---
 
