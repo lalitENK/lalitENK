@@ -25,17 +25,16 @@
   
 ### 🌐 Connect with Me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baba231216@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lalit.k@enktechnologies.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_lks_rajput007/?hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lalitkaushal007)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lalitENK)
 </br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white)](https://lks-portfolio-five.vercel.app/)
-![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
-![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
+![Repositories](https://badges.strrl.dev/repos/lalitENK?color=blue)
+![Followers](https://img.shields.io/github/followers/lalitENK?color=blue&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/lalitENK?color=blue&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=lalitENK&color=blue)
 
   <i style="color:#00F2FE;">
 
@@ -164,15 +163,15 @@ I started with Electrical Engineering but found my true passion in writing code 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitENK&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitENK&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitENK&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -188,7 +187,7 @@ I started with Electrical Engineering but found my true passion in writing code 
   
 ### 📈 Coding Activity
 
-[![Lalit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitkaushal007&theme=github-compact&hide_border=true)](https://github.com/lalitkaushal007)
+[![Lalit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitENK&theme=github-compact&hide_border=true)](https://github.com/lalitENK)
 
 
 
@@ -200,7 +199,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lalitENK&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -213,7 +212,5 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 
 
-
-<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
 
 <img src="https://img.shields.io/badge/══════════════════════════════════════════════════════════════ThankYou_for_Visiting══════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
